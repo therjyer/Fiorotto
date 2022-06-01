@@ -1,0 +1,33 @@
+{
+  "name": "fiorotto",
+  "version": "0.0.1",
+  "description": "No comment",
+  "main": "index.ts",
+  "type": "commonjs",
+  "esModuleInterop": true,
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.ts"
+  },
+  "keywords": [
+    "fiorotto",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "therjyer",
+  "license": "GNU General",
+  "dependencies": {
+    "whatsapp-web.js": "^1.16.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therjyer/fiorotto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/therjyer/fiorotto/issues"
+  },
+  "homepage": "https://github.com/therjyer/fiorotto#readme"
+}

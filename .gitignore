@@ -1,0 +1,6 @@
+# Ignore folder
+node_modules
+.wwebjs_auth
+
+# Ignore lock
+package-lock.json

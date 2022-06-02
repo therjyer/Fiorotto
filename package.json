@@ -1,6 +1,6 @@
 {
   "name": "fiorotto",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "No comment",
   "main": "index.ts",
   "type": "commonjs",
